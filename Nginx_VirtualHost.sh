@@ -18,5 +18,5 @@ server {
 }
 EOF
 sudo ln -s /etc/nginx/sites-available/nginx.api.net.bd.conf /etc/nginx/sites-enabled/
-
+sudo ln -s /etc/nginx/sites-a
 
